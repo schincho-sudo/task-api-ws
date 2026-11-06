@@ -6,7 +6,7 @@ servers:
   - url: http://localhost:3000
     description: Local development servers
   - url: https://task-api-ws.onrender.com
-    description: Local development servers 
+    description: production servers 
 tags:
   - name: Tasks
     description: Task-related endpoints
